@@ -1,0 +1,60 @@
+Weekly Exercise 4: Text Preprocessor
+CMPUT 274 Fall 2020
+Ashley Davis  1616898
+
+The program preprocess.py will call 4 functions to process each word 
+in an input line and convert to lowercase and remove unwanted characters
+
+lowercase() - takes word and converts all captial letters to 
+              lowercase letters
+remove_punct() - takes word, converts to list of characters, then
+              removes all punctuation and symbols
+remove_numbers() - takes list of characters, removes characters
+              that are numbers UNLESS all characters are
+              numbers, then joins characters into new word
+remove_punct() - takes word and deletes it (creates empty string) 
+	      if word if found in the list of stopwords
+
+The main program will determine if a mode is specified in the command-line 
+and do input error checking. If input is not formatted correctly, the program 
+will tell the user the error encountered and indicate the proper format, 
+then exit the program.
+
+If the input is formatted correctly, it will be in the form
+          python3 preprocess.py <mode>
+where the mode is optional. The three defined modes are:
+*keep-symbols - program will not remove punctuation or symbols
+*keep-digits  - program will not remove any numbers from words
+*keep-stops   - program will not remove defined stopwords
+
+If a mode is entered, but not one of the three defined modes, an error 
+message will be displayed indicating the three modes and the program will exit.
+
+If no errors exist, the program will run the 4 functions (or 3 of the 4 if 
+a mode is entered) and output the processed string of words, excluding any 
+words that have become empty strings.
+
+
+How to run the program:
+1. Please type the following command into the terminal:
+	$ python3 freq.py mode
+   where mode is the name of the defined mode (see above) OR is
+   left blank. No mode needs to be specified to run the program.
+2. If the input has more than one mode indicated, the program
+   will print an error message indicating the correct format and 
+   listing defined modes.
+3. If the mode inputted is not defined, the program will print an 
+   error message indicating correct format and listing defined
+   modes
+4. When the program completes, it will ouput a string of processed
+   words, excluding any removed words.
+
+
+Note to the marker:
+On assignment 2 I was docked marks for not removing the .txt file extension 
+on the README file. I am not sure why, as I do not see any extension in my 
+original copy. Please note that I did remove the .txt file extension for this 
+file before submitting, so if it has an extension still, there must be an error 
+in transferring the file, not a human error. If the error occurs, could you 
+possibly give me a correct way to remove the extension? I have already followed 
+all instructions provided by Google. Thank you!
