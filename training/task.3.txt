@@ -1,0 +1,116 @@
+% New Training Data Weekly Exercise 5 - Ashley Davis CMPUT 274 Fall 2020
+%pos-features dog dogs bark barks fur walk walks pet pets puppy collar fetch
+%pos-label #dogs
+%
+%
+#dogs My dog is named Charlie
+#dogs They need to go on lots of walks
+#dogs Playing fetch
+#dogs Will chase cats
+#dogs Wears a collar
+#dogs I give him lots of pets
+#dogs One breed is called german shepard
+#dogs Lots of fur
+#dogs They often chew furniture
+#dogs Charlie barks at squirrels
+#dogs Playing ball at the dog park
+#dogs Feed them kibble
+#dogs I have two dogs
+#dogs I got a new puppy
+#dogs Take Charlie for a walk
+#dogs There is fur everywhere!
+#dogs Need to go to the groomer
+#dogs I need to take Charlie to the vet
+#dogs good dog
+#dogs Stop barking!
+#dogs Teach them tricks
+#dogs Learning to roll over
+#dogs Charlie is playing with a chew toy
+#dogs He is a good pet
+#dogs Please don't pet my dog
+#dogs Charlie likes walks around the park
+#dogs I need to get a new collar for Charlie
+#dogs They descended from wolves
+#dogs Have a strong sense of smell, and are used by police forces
+#dogs Wag their tails when happy
+#dogs Need to be brushed to help with shedding fur
+#dogs Stop likcing me, Charlie!
+#dogs I love my dog
+#dogs Bad dog
+#dogs Sit, stay, roll-over
+#dogs Huskies are known for pulling sleds
+#dogs They are a high-maintenance pet
+#dogs Charlie wears a collar in case he ever gets lost
+#dogs Fetch is Charlie's favourite game
+#dogs He barks
+#dogs Charlie has brown fur
+#dogs My new puppy is a beagle
+#dogs Need a new collar tag
+#dogs Charlie walks on a leash
+#dogs My dog had puppies!
+#dogs Charlie is very good at fetch
+#dogs I need to give my dog a bath
+#dogs Stop pulling on the leash!
+#dogs My parents got me a puppy for Christmas
+#dogs Dogs make excellent companions
+#dogs Charlie wags his tail when I pet him
+#dogs Charlie likes to bark at the neighbour's cat
+#dogs I walk Charlie every morning
+#dogs Have thick fur
+#dogs Have large paws
+#dogs Can be large pets
+#dogs They bark and woof
+#dogs That puppy needs to learn manners
+#dogs Lots of people have dogs
+#dogs Fetch the ball!
+#dogs Wear collars
+#dogs Baby dogs are called puppies
+#dogs Wag their tails
+#dogs My puppy is cute
+#dogs Dogs howl too
+#dogs My dog is lost
+#dogs Don't send Charlie to the pound
+#dogs Charlie needs to go to the vet
+#dogs May I pet your dog?
+#dogs I want a puppy
+#dogs Charlie's collar is red
+#dogs Charlie sleeps in a kennel
+#dogs Keep him on a leash!
+#dogs Pant when hot
+#dogs Dalmations have lots of spots!
+#dogs Charlie rolled in the mud, now there are paw prints everywhere
+#dogs Chew toys
+#dogs Usually don't like cats
+#dogs Man's best friend
+%
+%
+#negative I have a pet cat
+#negative My bird's name is Tica
+#negative The weather is cold
+#negative Playing at the playground
+#negative Walk to the grocery store and buy some eggs
+#negative My cat likes playing with bells
+#negative Knock knock
+#negative I need to buy some chips
+#negative Math is difficult
+#negative I should be studying more
+#negative That lady likes to wear faux fur wraps
+#negative Birds like being pet too
+#negative I need to take a shower
+#negative She just got a new kitten
+#negative I am going out for supper
+#negative Let's go sledding in the park
+#negative This is a negative instance
+#negative The weatherman says it is going to rain
+#negative I'm going on a walk to clear my head
+#negative I wish I had more time in a day
+#negative The bark beetle is known for damaging forests
+#negative My bird bit me
+#negative My best friend is coming to see me tonight
+#negative We need sticks for roasting marshmallows
+#negative Don't forget to take the trash out
+#negative Random words like computer, homework, etc.
+#negative Let's go to the mall
+#negative Please don't be late
+#negative It is snowing
+%

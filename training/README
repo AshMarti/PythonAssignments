@@ -1,0 +1,33 @@
+----------------------------------------------------------------
+Weekly Exercise 5 - New Training Data
+CMPUT 274 Fall 2020
+Ashley Davis - 1616898
+----------------------------------------------------------------
+
+This exercise has three tasks:
+TASK 1:
+	The file new.training.txt contains training data that can be 
+	analyzed using ooclassifierbasev3.py. It uses the topic of
+	dogs, and provides positive features than can be used to 
+	indentify positive instances in the data. The file has
+	true positive, true negative,, false positive, and false 
+	negative instances. It can be run using the terminal command:
+	  $ python3 ooclassifierbasev3.py new.training.txt
+TASK 2:
+	The file question.1.txt contains a written response discussing 
+	the process and strategy of creating new.training.txt.
+TASK 3:
+	The file task.3.txt is similar to new.training.txt except with
+	a total of 52 new positive training instances to increase
+	precision and decrease accuracy of the classifer. It can be run
+	using the terminal command:
+	  $ python3 ooclassifierbasev3.py task.3.txt
+	A second file was also created for this task. The file
+	question.2.txt contains a written response discussing the process
+	and strategy of creating task.3.txt from new.training.txt
+
+FILES INCLUDED:
+new.training.txt
+question.1.txt
+task.3.txt
+question.2.txt
